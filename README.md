@@ -1,10 +1,10 @@
 ## QME Releases
 
-### How to install QME like a normal person
+### How to install QME unsing the QME Installer (Recommended)
 
-Download the QME launcher from the releases section in [this github repository](https://www.github.com/qmegame/qme-launcher) and run the executable file. If you are having issues follow the instructions in the repository.
+Download the QME launcher from the releases section in [this github repository](https://www.github.com/qmegame/qme-launcher) and run the executable file. If you are having issues follow the instructions below.
 
-### How to install QME like a weird person
+### How to install QME from a release
 
 If your operating system is not supported or you just want to make things hard then you can manually install QME. To do this follow these steps:
 
