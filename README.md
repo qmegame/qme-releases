@@ -17,6 +17,6 @@ If your operating system is not supported or you just want to make things hard t
 3. Create a directory named `qdata` inside of the directory you just created.
 4. Launch the game by running `java -jar qme.jar`.
 
-There are two versions of QME release, it is compatible with JRE 15, but there is also an alternative version compatible with JRE 11-14.
+There are two versions of QME release, the offical version is compatible with JRE 15, but there is also an alternative version compatible with JRE 11-14.
 
 Please note that older JRE compatibility may come with performance, stability, and other issues.
