@@ -13,4 +13,4 @@ If your operating system is not supported or you just want to make things hard t
 3. Create a directory named `qdata` inside of the directory you just created.
 4. Launch the game by running `java -jar qme.jar`.
 
-If you are not using the latest version of Java runtime then QME will not work.
+If you are not using the latest version of Java runtime (15) then QME will not work. Please install it [here](https://www.oracle.com/java/technologies/javase-downloads.html).
