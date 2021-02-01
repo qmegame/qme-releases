@@ -1,5 +1,7 @@
 ## QME Releases
 
+![Banner Image](https://github.com/qmegame/qme-releases/blob/master/qme_banner_image.png?raw=true)
+
 ### How to install QME unsing the QME Installer (Recommended)
 
 Download the QME launcher from the releases section in [this github repository](https://www.github.com/qmegame/qme-launcher) and run the executable file. If you are having issues follow the instructions below.
