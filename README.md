@@ -1,6 +1,6 @@
 ## QME Releases
 
-![Banner Image](https://github.com/qmegame/qme-releases/blob/master/qme_banner_image.png?raw=true)
+![Banner Image](https://github.com/qmegame/qme-releases/blob/main/qme_banner_image.png?raw=true)
 
 ### How to install QME unsing the QME Installer (Recommended)
 
