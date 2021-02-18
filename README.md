@@ -2,7 +2,7 @@
 
 ![Banner Image](https://github.com/qmegame/qme-releases/blob/main/qme_banner_image.png?raw=true)
 
-### How to install QME unsing the QME Installer (Recommended)
+### How to install QME using the QME Installer (Recommended)
 
 Download the QME launcher from the releases section in [this github repository](https://www.github.com/qmegame/qme-launcher) and run the executable file. If you are having issues follow the instructions below.
 
@@ -22,3 +22,6 @@ If your operating system is not supported or you just want to make things hard t
 There are two versions of QME release, the offical version is compatible with JRE 15, but there is also an alternative version compatible with JRE 11-14.
 
 Please note that older JRE compatibility may come with performance, stability, and other issues.
+
+## The Game Itself
+QME is a strategy game based on Civ 6 and Polytopia, with its own unique flavor thrown into the mix.
